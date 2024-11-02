@@ -1,0 +1,8 @@
+apache-airflow
+streamlit
+altair==4.0
+boto3
+pandas
+altair
+matplotlib
+seaborn
