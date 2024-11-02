@@ -144,8 +144,6 @@ for i, j, k in zip(a, b, weight):
 
 m = dijkstra_path(G,dep, arr)
 
-print(m)
-
 
 
 #Соберем датафрейм из данных по городу вылета
