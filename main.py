@@ -14,11 +14,10 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('streamlit')
 
-
+# UI  Streamlit
 st.title("CHEAP FLIGHTS")
 st.write("")
 
-# UI  Streamlit
 
 date = '2024-01-22'
 
